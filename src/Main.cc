@@ -77,7 +77,7 @@ void CentralUpdate()
   glDrawArrays(GL_TRIANGLES, 0, 6);
 }
 
-int main(void)
+int WinMain(void)
 {
   // Initialize Varkor.
   VarkorInit("Fractalkor");

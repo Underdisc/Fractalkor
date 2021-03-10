@@ -80,7 +80,7 @@ void CentralUpdate()
 int main(void)
 {
   // Initialize Varkor.
-  VarkorInit();
+  VarkorInit("Fractalkor");
   World::CentralUpdate = CentralUpdate;
 
   // Initialize the shaders.

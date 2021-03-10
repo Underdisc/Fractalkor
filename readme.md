@@ -5,9 +5,9 @@ Fractalkor is a very small project that displays iterations of the Mandelbrot an
 The values in the editor can be clicked and dragged to change them. Click and drag in the window to move around. Use the mouse wheel to zoom in and out.
 
 ## Eye Candy
-<img src="res/pretty_set.gif" alt="pretty set" style="display: block; margin-left: auto; margin-right: auto; border-radius: 1.0em;">
-<img src="res/oil_mandelbrot.png" alt="oil mandelbrot" style="display: block; margin-left: auto; margin-right: auto; border-radius: 1.0em;">
-<img src="res/julia_motion.gif" alt="julia motion" style="display: block; margin-left: auto; margin-right: auto; border-radius: 1.0em;">
+![pretty set](res/pretty_set.gif)
+![julia motion](res/julia_motion.gif)
+![oil mandelbrot](res/oil_mandelbrot.png)
 
 ## Varkor Backend
 This project uses some features from [Varkor](https://github.com/Underdisc/Varkor), my custom game engine, but it really only makes use of utilities from Varkor.

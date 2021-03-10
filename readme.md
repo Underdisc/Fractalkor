@@ -3,7 +3,7 @@ Fractalkor is a very small project that displays iterations of the Mandelbrot an
 
 ## Eye Candy
 ![pretty set](res/pretty_set.gif)
-![oil mandelbrot](res/oil_mandelbrot.gif)
+![oil mandelbrot](res/oil_mandelbrot.png)
 ![julia motion](res/julia_motion.gif)
 
 ## Varkor Backend

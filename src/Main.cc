@@ -1,9 +1,9 @@
 // glad.h must be included before Input.h because Input.h includes glfw3.h.
 // Really, these two files should never need to be included in the same file,
 // but since this is just a small experiment project, this is being overlooked.
-// clang-fromat off
-#include <Input.h>
+// clang-format off
 #include <glad/glad.h>
+#include <Input.h>
 // clang-format on
 
 #include <Error.h>
@@ -18,9 +18,9 @@
 float gHeight = 2.0f;
 Vec2 gCenter = {0.0f, 0.0f};
 // The number of times the fractal function is executed in the shader
-int gIterations = 10;
+int gIterations = 30;
 // C's value in f(z) = z^2 + c. This constant is only used by the Julia shader.
-Vec2 gC = {0.0f, 0.0f};
+Vec2 gC = {0.3f, 0.0f};
 unsigned int gVao;
 
 // The shaders and some values to keep track of the currently selected shader.

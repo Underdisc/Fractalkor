@@ -1,5 +1,5 @@
 # Fractalkor
-Fractalkor is a very small project that displays iterations of the Mandelbrot and Julia sets. The fractal implementation is done within glsl.
+Fractalkor is a very small project that displays approximations of the Mandelbrot and Julia sets. The fractal implementation is done within glsl.
 
 ## Usage
 The values in the editor can be clicked and dragged to change them. Click and drag in the window to move around. Use the mouse wheel to zoom in and out.
